@@ -6,7 +6,7 @@ This repository contains documentation for setting up auto-scaling virtual machi
 This implementation was done entirely through the Google Cloud Console without using Infrastructure as Code tools. The documentation provides detailed step-by-step instructions with screenshots for each stage of the process.
 
 ## Video Demonstration
-[Link to demo video](https://youtu.be/gQxDO1bvn9U)
+[Link to Youtube demo video](https://youtu.be/gQxDO1bvn9U)
 
 ## Author
 Suvodip Som (M23CSA533)  
